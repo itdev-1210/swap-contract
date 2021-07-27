@@ -1,0 +1,8 @@
+/node_modules/
+/build/
+/cache/
+/coverage
+.openzeppelin
+.env
+artifacts
+.DS_Store
